@@ -1,1 +1,0 @@
-# landmark_images_recognition
