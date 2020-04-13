@@ -1,7 +1,0 @@
-{
-  "username": "TT_Spotify_App_537",
-  "scope": "user-library-read playlist-modify-private playlist-read-private playlist-read-collaborative user-read-private user-read-currently-playing",
-  "client_id": "a97853c95a8c452b9b870b31fde52013",
-  "client_secret": "f9326d3ed89046f7a8bda88bd80a41f4",
-  "redirect_uri": "http://example.com/callback/"
-}
