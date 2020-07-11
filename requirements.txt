@@ -1,7 +1,10 @@
-bs4==0.0.1
-pandas==1.0.5
-re==2.2.1
-gensim==3.8.3
-texthero==1.0.9
-matplotlib==3.2.2
-ipywidgets==7.4.2
+urllib
+requests
+bs4
+texthero
+pandas
+re
+gensim
+texthero
+matplotlib
+ipywidgets
