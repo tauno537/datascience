@@ -1,4 +1,3 @@
-urllib
 requests
 bs4
 texthero
