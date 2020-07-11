@@ -2,7 +2,7 @@ requests
 bs4
 texthero
 pandas
-re
+regex
 gensim
 texthero
 matplotlib
