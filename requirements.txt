@@ -1,2 +1,8 @@
-numpy==1.18.1
+urllib.request==3.7
+bs4==4.7.1
+pandas==1.0.5
+re==2.2.1
+gensim==3.8.3
+texthero==1.0.9
+matplotlib==3.2.2
 ipywidgets==7.4.2
